@@ -32,6 +32,6 @@ Sou um estudante na área de desenvolvimento, com experiência nos conceitos de 
 
 ### 🌱 O que eu busco
 
-[cite_start]*  💼 **Objetivo:** Entrar no mercado de TI.
-[cite_start]*  💡 **Foco:** Trabalhar na resolução de problemas no desenvolvimento ou manutenção de sistemas.
+*  💼 **Objetivo:** Entrar no mercado de TI.
+*  💡 **Foco:** Trabalhar na resolução de problemas no desenvolvimento ou manutenção de sistemas.
 *  📈 **Meta:** Agregar à empresa e continuar aprendendo e crescendo na área.
