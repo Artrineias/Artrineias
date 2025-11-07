@@ -6,9 +6,6 @@ Sou um estudante na área de desenvolvimento, com experiência nos conceitos de 
 ---
 
 ### 🚀 Minha Tech Stack
-
-(Você pode usar "badges" para deixar mais visual. Procure por "Shields.io" para gerar os seus)
-
 **Linguagens e Frameworks:**
 <p>
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
